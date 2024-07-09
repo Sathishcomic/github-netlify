@@ -1,4 +1,5 @@
 {
+  "homepage": "https://Sathishcomic.github.io/github-netlify",
   "name": "git-netlify",
   "version": "0.0.1",
   "description": "",
@@ -15,6 +16,7 @@
   },
   "devDependencies": {
     "copy-webpack-plugin": "^11.0.0",
+    "gh-pages": "^6.1.1",
     "html-webpack-plugin": "^5.6.0",
     "webpack": "^5.91.0",
     "webpack-cli": "^5.1.4",
